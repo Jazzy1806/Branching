@@ -25,3 +25,9 @@
 ### Other Commands
 * 'git help' - list git subcommands and options
 * 'git config --help' - show options for 'git config'
+
+
+### Remote Commands
+* 'git remote add origin someURL' - connect local repo to remote repo url as 'origin'
+* 'git push origin branchName' - push local commites to remote repo into branch 'branchName'
+* 'git pull origin branchName' - pull lo
