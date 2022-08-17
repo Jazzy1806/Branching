@@ -12,3 +12,4 @@
 * 'git log' - list commit history
 * 'git log --oneline' - list commit history (compact)
 * 'git checkout main' -  switch back to working from main Branching
+* 'git config -l' - list local git configuration settings
