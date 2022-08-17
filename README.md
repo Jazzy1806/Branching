@@ -30,4 +30,5 @@
 ### Remote Commands
 * 'git remote add origin someURL' - connect local repo to remote repo url as 'origin'
 * 'git push origin branchName' - push local commites to remote repo into branch 'branchName'
-* 'git pull origin branchName' - pull lo
+* 'git pull origin branchName' - pull remote branch into local current branch
+* 'git pull origin main' - pull main into your branch you've been workin on so minimize merge conflicts.
