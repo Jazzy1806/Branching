@@ -12,13 +12,14 @@
 * 'git status' - show status of current working directory
 * 'git log' - list commit history
 * 'git log --oneline' - list commit history (compact)
-
-
+* 'git config -l' - list local git configuration settings
 
 ### Branch Commands
 * 'git branch' - shows which branch you're in
 * 'git branch newBranch' - creates a new branch in the repository called "newBranch"
 * 'git checkout newBranch'- switches to allow you to work from newBranch
+* 'git checkout main' -  switch back to working from main Branching
+
 * 'git checkout -b otherBranch' - switch to branch "otherBranch", creating it if it doesn't exist
 
 ### Other Commands
