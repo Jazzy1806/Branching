@@ -20,3 +20,7 @@
 * 'git branch newBranch' - creates a new branch in the repository called "newBranch"
 * 'git checkout newBranch'- switches to allow you to work from newBranch
 * 'git checkout -b otherBranch' - switch to branch "otherBranch", creating it if it doesn't exist
+
+### Other Commands
+* 'git help' - list git subcommands and options
+* 'git config --help' - show options for 'git config'
