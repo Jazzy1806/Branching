@@ -11,3 +11,10 @@
 * 'git status' - show status of current working directory
 * 'git log' - list commit history
 * 'git log --oneline' - list commit history (compact)
+
+
+
+### Branch Commands
+* 'git branch' - shows which branch you're in
+* 'git branch newBranch' - creates a new branch in the repository called "newBranch"
+* 'git checkout newBranch'- switches to allow you to work from newBranch
